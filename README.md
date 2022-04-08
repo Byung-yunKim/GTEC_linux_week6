@@ -1,7 +1,7 @@
 # GTEC_linux_week6
 2022.04.08.Fri
 
-root (유저 사용자 홈 디렉토리)
+root (유저 사용자 홈 디렉토리)\n
 bin (실행 명령어)
 dev (디바이스 제어)
 lib (라이브러리)
